@@ -1,0 +1,7 @@
+{
+  "version": "0.3.3-beta",
+  "local_checks_passed": 14,
+  "offline_browser_scenarios_passed": 4,
+  "live_janitorai_tested": false,
+  "clipboard_permissions_tested": false
+}
