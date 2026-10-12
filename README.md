@@ -8,7 +8,7 @@ Sister project to [JannyAI Character Card Exporter](https://github.com/transient
 
 Download `JanitorAI-Reference-Engine.user.js` from [Releases](https://github.com/transientclover-ui/JanitorAI-Character-Card-Exporter/releases) and install it in your userscript manager. Disable older JanitorAI exporters and the original Minimal scraper so only one version runs. Your JannyAI script is separate.
 
-Open an existing JanitorAI chat, reload, and click **💾 Download Card**. Choose JSON, TXT or PNG. Drag the button to move it. The T shortcut also opens the export menu.
+Open an existing JanitorAI chat, reload, and click **💾 Download Card**. Choose JSON, TXT or PNG. Drag the button to move it. **No keyboard shortcut is required—just click the button.** The optional **T** shortcut opens the same menu.
 
 ## Dummy proxy — card extraction only
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JanitorAI Character Card Exporter (Reference Engine)
 // @version      0.3.3-beta
-// @description  Minimal chara_card_v2 exporter for JanitorAI – press T to export as TXT/PNG/JSON.
+// @description  Export JanitorAI character cards as TXT/PNG/JSON using the floating Download Card button. T is an optional shortcut.
 // @match        https://janitorai.com/*
 // @icon         https://images.dwncdn.net/images/t_app-icon-l/p/46413ec0-e1d8-4eab-a0bc-67eadabb2604/3920235030/janitor-ai-logo
 // @grant        none
